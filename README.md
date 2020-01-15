@@ -18,12 +18,12 @@
 
 9. Espera a que abrá el pop-up de "Bienvenida" una vez leído pulsa en "Entendido" en el siguiente pop-up presiona "Wizard Menú"
 
-10.Entra en "Builds" selecciona la build a instalar, presiona "INSTALAR BUILD"en el siguiente cuadro, acepta en "Si, Instalar".
+10. Entra en "Builds" selecciona la build a instalar, presiona "INSTALAR BUILD"en el siguiente cuadro, acepta en "Si, Instalar".
 
-11.Una vez finalizado el proceso pulsa "OK" abre de nuevo Kodi y disfruta de tu nuevo Kodi.
+11. Una vez finalizado el proceso pulsa "OK" abre de nuevo Kodi y disfruta de tu nuevo Kodi.
 
-12.Puedes instalar los parches entrando de nuevo en "Add-ons/Mis add-ons/Add-ons de programas/Taox Wizard/Builds".
+12. Puedes instalar los parches entrando de nuevo en "Add-ons/Mis add-ons/Add-ons de programas/Taox Wizard/Builds".
 
-13.Recuerda que para instarlar un parche, deberás seleccionarlo y presionar en "INSTALAR PARCHE".
+13. Recuerda que para instarlar un parche, deberás seleccionarlo y presionar en "INSTALAR PARCHE".
 
 Tras las actualizaciones periódicas de los add-ons de vídeo, recomendado instalar el parche "Custom View".

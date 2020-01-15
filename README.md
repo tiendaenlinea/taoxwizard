@@ -8,7 +8,7 @@
 
 4. Acepta pulsando "OK" e ir hasta "Add-ons".
 
-5. En "Add-ons", presiona "Instalar desde un archivo".
+5. En "Add-ons", presiona "Instalar desde un archivo" habilita "Orignes desconocidos".
 
 6. Selecciona "taoxwizard", e instala pulsando en "repository.taoxwizard-1.0.0.zip".
 

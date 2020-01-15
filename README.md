@@ -18,7 +18,7 @@
 
 9. Espera a que abrá el pop-up de "Bienvenida" una vez leído pulsa en "Entendido" en el siguiente pop-up presiona "Wizard Menú"
 
-10. Entra en "Builds" selecciona la build a instalar, presiona "INSTALAR BUILD"en el siguiente cuadro, acepta en "Si, Instalar".
+10. Entra en "Builds" selecciona la build a instalar, presiona "INSTALAR BUILD" en el siguiente cuadro, acepta en "Si, Instalar".
 
 11. Una vez finalizado el proceso pulsa "OK" abre de nuevo Kodi y disfruta de tu nuevo Kodi.
 
